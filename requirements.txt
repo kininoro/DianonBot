@@ -2,3 +2,6 @@ telebot
 pyTelegramBotAPI
 colorama
 random
+pyinstaller
+telebot==0.0.4
+aiogram
